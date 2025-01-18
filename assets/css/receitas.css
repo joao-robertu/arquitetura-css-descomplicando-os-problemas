@@ -3,4 +3,11 @@
     display: flex;
     flex-wrap: wrap;
     padding: 5rem 0 0 5rem;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.receita, receita__botao {
+    text-align: center;
 }
